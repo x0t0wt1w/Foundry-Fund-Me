@@ -30,8 +30,8 @@ _[⭐️ (0:00:00) | Lesson 7: Foundry Fund Me](https://www.youtube.com/watch?v=
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
-cd foundry-fund-me-f23
+git clone https://github.com/x0t0wt1w/Foundry-Fund-Me.git
+cd Foundry-Fund-Me
 forge build
 ```
 
